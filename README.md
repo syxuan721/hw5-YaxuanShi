@@ -93,7 +93,6 @@ This skill has several limitations:
             ├── SKILL.md
             ├── scripts/
             │   └── check_submission.py
-            ├── references/
             └── assets/
                 └── example_manifest.json
 ```

@@ -1,0 +1,29 @@
+{
+  "required_paths": [
+    "README.md",
+    "report.pdf",
+    "slides"
+  ],
+  "required_globs": [
+    "slides/*.pptx"
+  ],
+  "non_empty_files": [
+    "README.md",
+    "report.pdf"
+  ],
+  "flagged_filename_patterns": [
+    "draft",
+    "temp",
+    "final_final",
+    "copy"
+  ],
+  "required_text_patterns": [
+    {
+      "path": "README.md",
+      "patterns": [
+        "https?://",
+        "video"
+      ]
+    }
+  ]
+}

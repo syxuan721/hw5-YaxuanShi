@@ -96,3 +96,6 @@ This skill has several limitations:
             └── assets/
                 └── example_manifest.json
 ```
+
+## The Video Link:
+The link is: https://youtu.be/PkfOcV7lyC8
